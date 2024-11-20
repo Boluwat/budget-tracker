@@ -1,0 +1,191 @@
+{"level":"error","message":"failed to start server:::::Error: Cannot find module './services/service-factory'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::ReferenceError: createServices is not defined"}
+{"level":"error","message":"failed to start server:::::ReferenceError: createServices is not defined"}
+{"level":"error","message":"failed to start server:::::ReferenceError: createServices is not defined"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module './services/service-factory'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::TypeError: createServices is not a function"}
+{"level":"error","message":"failed to start server:::::TypeError: createServices is not a function"}
+{"level":"error","message":"failed to start server:::::ReferenceError: services is not defined"}
+{"level":"error","message":{}}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module '.'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::TypeError: roleService is not a function"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module './roles'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\index.js\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module './roles'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\index.js\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::Error: Cannot find module './roles'\nRequire stack:\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\index.js\n- C:\\Users\\USER\\documents\\expense-tracker\\services\\service-factory.js\n- C:\\Users\\USER\\documents\\expense-tracker\\index.js"}
+{"level":"error","message":"failed to start server:::::TypeError: roleService is not a function"}
+{"level":"error","message":"failed to start server:::::TypeError: roleService is not a function"}
+{"level":"error","message":"failed to start server:::::ReferenceError: roleService is not defined"}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":"failed to start server:::::ReferenceError: roleService is not defined"}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":"failed to start server:::::SyntaxError: Unexpected identifier 'signUpUser'"}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{"isImmutableError":false,"path":"status"}}
+{"level":"error","message":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":false,"operator":"=="}}
+{"level":"error","message":{"isImmutableError":false,"path":"user"}}
+{"level":"error","message":"failed to start server:::::SyntaxError: Unexpected token '{'"}
+{"level":"error","message":"failed to start server:::::SyntaxError: Unexpected token '{'"}
+{"level":"error","message":"failed to start server:::::SyntaxError: Unexpected token '{'"}
+{"level":"error","message":"failed to start server:::::SyntaxError: Unexpected token '{'"}
+{"level":"error","message":{"_message":"Category validation failed","errors":{"user":{"kind":"required","message":"Path `user` is required.","name":"ValidatorError","path":"user","properties":{"message":"Path `user` is required.","path":"user","type":"required"}}},"message":"Category validation failed: user: Path `user` is required.","name":"ValidationError"}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{}}
+{"level":"error","message":{"name":"AssertError"}}
+{"level":"error","message":{"name":"AssertError"}}
+{"level":"error","message":{"actual":false,"code":"ERR_ASSERTION","expected":true,"generatedMessage":false,"operator":"=="}}
